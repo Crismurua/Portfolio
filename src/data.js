@@ -17,7 +17,7 @@ const brand = 'Singleton'
 const work = [
 	
 	{
-		name: 'E-Commerce - Calathea Market',
+		name: 'Calathea Market',
 		description: 'E-commerce realizado como proyecto grupal en la academia Henry: Utilizamos la temática de vivero (tienda de plantas e insumos para la jardinería) luego de realizar un breve estudio de mercado en la zona de Rosario, Santa Fe.',
 		stack: [
 			{ icon: icon.SiFirebase, name: 'Firebase' },
