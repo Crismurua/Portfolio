@@ -27,7 +27,7 @@ const Nav = () => {
 			<div className='Nav-menu' data-show={menu} onClick={(e) => handleMenu(e)}>
 				<div className='Nav-menu-wrapper'>
 					<a className='Nav-link' href='#work' onClick={() => setMenu(false)}>
-						Work.
+						Proyectos.
 					</a>
 					<a className='Nav-link' href='#stack' onClick={() => setMenu(false)}>
 						Stack.
@@ -37,7 +37,7 @@ const Nav = () => {
 						href='#contact'
 						onClick={() => setMenu(false)}
 					>
-						Contact.
+						Contacto.
 					</a>
 				</div>
 			</div>

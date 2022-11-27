@@ -16,7 +16,7 @@ const Card = ({ name, description, stack, linkProject, linkGithub }) => {
 			</div>
 			<div className='Card-links'>
 				<a href={linkProject} className='Card-link-project' target='_blank'>
-					View Project <RiArrowRightLine className='Card-icon-arrow' />
+					Ver Proyecto <RiArrowRightLine className='Card-icon-arrow' />
 				</a>
 				<a href={linkGithub} className='Card-link-github' target='_blank'>
 					<SiGithub className='Card-icon-github' />
