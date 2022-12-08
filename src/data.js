@@ -30,18 +30,20 @@ const work = [
 		linkProject: 'https://api-plants-b6153.web.app/',
 		linkGithub: 'https://github.com/Crismurua/Proyecto-Final',
 	},
-	// {
-	// 	name: 'E-Commerce - Calathea Market',
-	// 	description: 'Nullam id mauris auctor, sollicitudin sapien id, sagittis turpis proin et nunc sempe, venenatis erat.',
-	// 	stack: [
-	// 		{ icon: icon.SiHtml5, name: 'HTML' },
-	// 		{ icon: icon.SiCss3, name: 'CSS' },
-	// 		{ icon: icon.SiJavascript, name: 'Javascript' },
-	// 		{ icon: icon.SiReact, name: 'ReactJS' },
-	// 	],
-	// 	linkProject: 'https://example.com',
-	// 	linkGithub: 'https://github.com',
-	// },
+	 {
+	 	name: 'Dogsbook - SAP',
+	 	description: 'Single Page Application con la utilizacion de info brindada por https://thedogapi.com/, CRUD completo, filtros, ordernamientos, paginado, formulario, de creacion/edicion, entre otras.',
+	 	stack: [
+	 		{ icon: icon.SiReact, name: 'ReactJS' },
+	 		{ icon: icon.SiRedux, name: 'Redux' },
+	 		{ icon: icon.SiMaterialui, name: 'MaterialUI' },
+	 		{ icon: icon.SiExpress, name: 'ExpressJS' },
+	 		{ icon: icon.SiSequelize, name: 'Sequelize' },
+	 		{ icon: icon.SiPostgresql, name: 'PostgreSQL' },
+	 	],
+	 	linkProject: 'https://dogs-pi-two.vercel.app/',
+	 	linkGithub: 'https://github.com/Crismurua/Dogs-PI',
+	 },
 ]
 
 
