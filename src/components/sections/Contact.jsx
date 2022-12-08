@@ -14,7 +14,7 @@ const Contact = () => {
 					<h3 className='Contact-h3'>
 						<a href={`mailto:${email}`}>Escribame!</a>
 					</h3>
-					<p className='Contact-description'>{description}</p>
+					
 					<div className='Contact-button'>
 						<Button text='Send email' link={email} />
 					</div>

@@ -78,7 +78,7 @@ const stack = [
 ]
 
 const contact = {
-	description: 'Contáctame!',
+	
 	email: 'cristianmurua1995@gmail.com'
 }
 
