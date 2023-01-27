@@ -73,6 +73,7 @@ const stack = [
 			{ icon: icon.SiFirebase, name: 'Firebase', },
 			{ icon: icon.SiPython, name: 'Python', },
 			{ icon: icon.SiDjango, name: 'Django', },
+			{ icon: icon.SiDocker, name: 'Docker', },
 		],
 	},
 ]
