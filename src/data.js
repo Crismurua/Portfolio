@@ -45,7 +45,7 @@ const work = [
 	 	linkGithub: 'https://github.com/Crismurua/Dogs-PI',
 	 },
 	 {
-	 	name: 'MarketPlace - Coderhouse',
+	 	name: 'MarketPlace',
 	 	description: 'Marketplace desarrollado con Django como proyecto final del curso de Python en Coderhouse. Registro de usuarios, logueo, CRUD de usuarios y productos, comentarios y likes, chat en tiempo real, testing...',
 	 	stack: [
 	 		{ icon: icon.SiDjango, name: 'Django' },
@@ -59,7 +59,7 @@ const work = [
 	 	linkGithub: 'https://github.com/Crismurua/Proyecto-Final-Coderhouse-Cristian-Murua',
 	 },
 	 {
-	 	name: 'E-commerce - Cloud Tech',
+	 	name: 'Cloud Tech',
 	 	description: 'E-commerce en proceso desarrollado con TypeScript y Python - Django REST Framework en el back y React en el front. Logueo completo con verificacion via mail, recuperacion de contraseña, logueo social, CRUD de productos, Carga de facturas, Control de Stock, etc...',
 	 	stack: [
 	 		{ icon: icon.SiDjango, name: 'Django' },
