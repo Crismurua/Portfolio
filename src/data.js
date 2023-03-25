@@ -60,7 +60,7 @@ const work = [
 	 },
 	 {
 	 	name: 'Cloud Tech',
-	 	description: 'E-commerce en proceso desarrollado con TypeScript y Python - Django REST Framework en el back y React en el front. Logueo completo con verificacion via mail, recuperacion de contraseña, logueo social, CRUD de productos, Carga de facturas, Control de Stock, etc...',
+	 	description: 'E-commerce en proceso desarrollado con TypeScript y Python - Django REST Framework y React. Logueo con verificacion via mail, logueo social, CRUD de productos, Carga de facturas, Control de Stock, etc...',
 	 	stack: [
 	 		{ icon: icon.SiDjango, name: 'Django' },
 	 		{ icon: icon.SiPython, name: 'Python' },
